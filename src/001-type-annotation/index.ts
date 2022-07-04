@@ -1,6 +1,6 @@
 /* eslint-disable */
 // Basic types (inferred types)
-const name: string = 'Joaquim';
+export const name: string = 'Joaquim';
 const age: number = 19;
 const adult: boolean = true;
 const hisSimbol: symbol = Symbol('any-symbol');
